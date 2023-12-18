@@ -19,14 +19,17 @@ ideal for introductory learning experiences
 # SUPERSTORE SALES PREDICTION
 ● Time series analysis deals with time series based data to extract patterns for 
 predictions and other characteristics of the data.
+
 ● It uses a model for forecasting future values in a small time frame based on 
 previous observations.
+
 ● It is widely used for non-stationary data, such as economic data, weather 
 data, stock prices, and retail sales forecasting.
 # Task 3
 # CAR PRICE PREDICTION
 • Numerous factors contribute to a car's price, encompassing brand reputation, 
-car features, horsepower, mileage efficiency, and more. 
+car features, horsepower, mileage efficiency, and more.
+
 • Car price prediction stands as a significant domain within machine learning 
 research.
 • If you seek to master the art of training a car price prediction model, this 
